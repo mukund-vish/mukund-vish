@@ -47,12 +47,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mukund-vish&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&icon_color=FF3131&border_color=8B0000" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=mukund-vish&hide_border=true&background=0d1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8B0000" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mukund-vish&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&layout=compact" width="40%"/>
+<img src="https://streak-stats.demolab.com/?user=mukund-vish&hide_border=true&background=0d1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8B0000" width="55%"/>
 
 </div>
 
