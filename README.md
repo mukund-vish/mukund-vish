@@ -26,10 +26,16 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-B22222?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-B22222?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B22222?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-B22222?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-B22222?style=for-the-badge&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-B22222?style=for-the-badge&logo=supabase&logoColor=white)
+![Burpsuite](https://img.shields.io/badge/burpsuite-B22222?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/wireshark-B22222?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
 
