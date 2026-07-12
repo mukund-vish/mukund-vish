@@ -25,18 +25,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-B22222?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-B22222?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-8B0000?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-A52A2A?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B22222?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react-B22222?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-C41E3A?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-B22222?style=for-the-badge&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-B22222?style=for-the-badge&logo=supabase&logoColor=white)
-![Burpsuite](https://img.shields.io/badge/burpsuite-B22222?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/wireshark-B22222?style=for-the-badge&logo=wireshark&logoColor=white)
-
+![CSS3](https://img.shields.io/badge/CSS3-CD5C5C?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9B111E?style=for-the-badge&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-A91B0D?style=for-the-badge&logo=supabase&logoColor=white)
+![Burpsuite](https://img.shields.io/badge/burpsuite-7C0A02?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/wireshark-BC544B?style=for-the-badge&logo=wireshark&logoColor=white)
 </div>
 
 ---
