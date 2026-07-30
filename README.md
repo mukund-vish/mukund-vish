@@ -67,7 +67,7 @@
 
 </div>
 
-> Web Force is a flexible web application password brute-forcing tool written in Python.
+> Web Force is a flexible multi-threaded web application password brute-forcing tool written in Python.
 
 
 ---
