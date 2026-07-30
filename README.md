@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![Web-Force](https://github-readme-stats.vercel.app/api/pin/?username=mukund-vish&repo=Web-Force&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&icon_color=FF3131&border_color=8B0000)](https://github.com/mukund-vish/PokeCLI)
+[![Web-Force](https://github-readme-stats.vercel.app/api/pin/?username=mukund-vish&repo=Web-Force&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&icon_color=FF3131&border_color=8B0000)](https://github.com/mukund-vish/Web-Force)
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-[![VTB-App](https://github-readme-stats.vercel.app/api/pin/?username=mukund-vish&repo=VTB-App&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&icon_color=FF3131&border_color=8B0000)](https://github.com/mukund-vish/PokeCLI)
+[![VTB-App](https://github-readme-stats.vercel.app/api/pin/?username=mukund-vish&repo=VTB-App&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&icon_color=FF3131&border_color=8B0000)](https://github.com/mukund-vish/VTB-App)
 
 </div>
 
