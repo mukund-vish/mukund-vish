@@ -15,8 +15,8 @@
 
 - 🎓 Computer Science Student
 - 🧑‍🏫 Technical Trainer @ **Vintech Computer Education**
-- 🐍 Building things with **Python** & **Web Development**
-- 🔐 Currently learning **Cyber Security**
+- 🐍 Python — **Web Dev & Automation**
+- 🔐 Building **Security Toolings**
 - 📍 India
 
 ---
