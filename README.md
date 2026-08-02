@@ -13,10 +13,11 @@
 
 ### 🩸 About Me
 
-- 🎓 Computer Science Student
-- 🧑‍🏫 Technical Trainer @ **Vintech Computer Education**
-- 🐍 Python — **Web Dev & Automation**
-- 🔐 Building **Security Toolings**
+- 🎓 Computer Science Student (expected 2027)
+- 🧑‍🏫 Technical Trainer @ **Vintech Computer Education** (2024 - Present)
+- 💻 Developing and Managing **Institute's** [official site](https://vintecheducation.org) (2025 - Present)
+- 🐍 Doing Python and Web Dev
+- 🔐 Building **Security Tools**
 - 📍 India
 
 ---
@@ -102,16 +103,8 @@
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mukund-vish&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&layout=compact" width="40%"/>
-<img src="https://streak-stats.demolab.com/?user=mukund-vish&hide_border=true&background=0d1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8B0000" width="55%"/>
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF3131,100:8B0000&height=100&section=footer"/>
-
-**Always building, always learning ⚡**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-vish&theme=react-dark&bg_color=0d1117&color=FF3131&line=FF3131&point=ffffff&hide_border=true" width="90%"/>
 
 </div>
