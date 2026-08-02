@@ -16,7 +16,7 @@
 - 🎓 Computer Science Student (expected 2027)
 - 🧑‍🏫 Technical Trainer @ **Vintech Computer Education** (2024 - Present)
 - 💻 Developing and Managing **Institute's** [official site](https://vintecheducation.org) (2025 - Present)
-- 🐍 Doing Python and Web Dev
+- 🐍 Doing **Python and Web Dev**
 - 🔐 Building **Security Tools**
 - 📍 India
 
