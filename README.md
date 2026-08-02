@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,100:FF3131&height=180&section=header&text=Mukund%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Python%20%7C%20Web%20Dev%20%7C%20Cyber%20Security&descAlignY=60&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Technical+Trainer+%40+Vintech+Computer+Education;Building+with+Python+%26+JavaScript;Currently+diving+into+Cyber+Security;Open+to+collaborations+%F0%9F%9A%80&font=Fira+Code&center=true&width=550&height=40&color=FF3131&vCenter=true&size=20"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Technical+Trainer+%40+Vintech+Computer+Education;Building+Security+Tools;Open+to+collaborations+%F0%9F%9A%80&font=Fira+Code&center=true&width=550&height=40&color=FF3131&vCenter=true&size=20"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukund-vishwakarma/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3131)](https://github.com/mukund-vish)
