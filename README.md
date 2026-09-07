@@ -141,8 +141,11 @@ Automation script for sub-domain, DNS, WHOIS, and network recon — chains tools
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mukund-vish&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&layout=compact" width="40%"/>
-<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-vish&theme=react-dark&bg_color=0d1117&color=FF3131&line=FF3131&point=ffffff&hide_border=true" width="90%"/>
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/FF3131/mukund-vish"
+     alt="GitHub Contributions"
+     width="90%"/>
 
 </div>
