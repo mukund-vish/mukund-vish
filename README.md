@@ -115,12 +115,12 @@
 
 <div align="center">
 
-[![The-OG-Recon-Script](https://github-readme-stats.vercel.app/api/pin/?username=mukund-vish&repo=The-OG-Recon-Script&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&icon_color=FF3131&border_color=8B0000)](https://github.com/mukund-vish/The-OG-Recon-Script)
+[![Sleepy-Updates](https://github-readme-stats.vercel.app/api/pin/?username=mukund-vish&repo=Sleepy-Updates&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=c9d1d9&icon_color=FF3131&border_color=8B0000)](https://github.com/mukund-vish/Sleepy-Updates)
 
 </div>
 
 
-`Bash` `Recon` `OSINT`
+`Next.js` `AI` `Blog`
 
 </td>
 </tr>
